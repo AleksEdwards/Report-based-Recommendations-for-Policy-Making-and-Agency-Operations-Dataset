@@ -13,7 +13,7 @@ The task is defined as:
 
 This dataset was introduced in:
 
-**Edwards et al. (2026). Report-based Recommendations for Policy Making and Agency Operations: Dataset and LLM Evaluation.**\
+**Edwards et al. (2026). Report-based Recommendations for Policy Making and Agency Operations: Dataset and LLM Evaluation.**
 
 
 
