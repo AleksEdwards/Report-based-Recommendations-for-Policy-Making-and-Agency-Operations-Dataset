@@ -1,9 +1,8 @@
 
-\
 # PubRec-Bench: Report-Based Recommendation Generation Benchmark\
-\
+
 ## Dataset Summary\
-\
+
 PubRec-Bench is the first benchmark dataset for report-based recommendation generation aimed at supporting policy-making and agency operations in public sector contexts.\
 \
 The dataset consists of manually curated evidence\'96recommendation pairs extracted from official public reports across UK and US institutions.\
